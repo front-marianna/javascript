@@ -27,6 +27,17 @@ Durante o desenvolvimento do projeto fizemos algumas funções, sendo elas:
 Dentro do método ```*addEventListener()*``` foi feita uma função anonima. Nela temos validação de tipo e, de acordo com o resultado, possuimos uma alteração no DOM.
 
 ## Screenshots
-<img src="assets/img/>
+### Tela inicial
+<img align src="assets/img/initial-screen.png">
 
+### Resultado bem sucedido
+<img align src="assets/img/result-success.png">
 
+### Resultado em caso de erro
+<img align src="assets/img/result-fail.png">
+
+### Hover no botão
+<img align src="assets/img/button-hover.png">
+
+## Conclusão
+Nesse projeto pude aprender melhor o uso de operadores lógicos, operador ternário, if/else, usar o operador de negação (!), criação de funções e manipulação de DOM.
