@@ -27,5 +27,6 @@ Durante o desenvolvimento do projeto fizemos algumas funções, sendo elas:
 Dentro do método ```*addEventListener()*``` foi feita uma função anonima. Nela temos validação de tipo e, de acordo com o resultado, possuimos uma alteração no DOM.
 
 ## Screenshots
+<img src="assets/img/>
 
 
