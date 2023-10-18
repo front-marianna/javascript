@@ -3,10 +3,6 @@
 
 Nesse projeto foram aplicados alguns dos primeiros conhecimentos de lógica e manipulação de DOM.
 
-## Referência
-
-[Curso de JavaScript e TypeScript do Básico ao Avançado - Udemy](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/)
-
 ## Sobre o programa
 
 Durante o desenvolvimento do projeto fizemos algumas funções, sendo elas:
@@ -38,6 +34,10 @@ Dentro do método ```*addEventListener()*``` foi feita uma função anonima. Nel
 
 ### Hover no botão
 <img align src="assets/img/button-hover.png">
+
+## Referência
+
+[Curso de JavaScript e TypeScript do Básico ao Avançado - Udemy](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/)
 
 ## Conclusão
 Nesse projeto pude aprender melhor o uso de operadores lógicos, operador ternário, if/else, usar o operador de negação (!), criação de funções e manipulação de DOM.
