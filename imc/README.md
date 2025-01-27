@@ -1,7 +1,7 @@
 
 # Calculadora IMC
 
-Nesse projeto foram aplicados alguns dos primeiros conhecimentos de lógica e manipulação de DOM.
+[Nesse projeto](https://calculadora-imc-kappa-three.vercel.app) foram aplicados alguns dos primeiros conhecimentos de lógica e manipulação de DOM.
 
 ## Sobre o programa
 
